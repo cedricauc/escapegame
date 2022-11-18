@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/escapegame/static/js/main.7c45b21e.js",
+    "static/js/787.5cccf6c2.chunk.js": "/escapegame/static/js/787.5cccf6c2.chunk.js",
+    "index.html": "/escapegame/index.html",
+    "main.7c45b21e.js.map": "/escapegame/static/js/main.7c45b21e.js.map",
+    "787.5cccf6c2.chunk.js.map": "/escapegame/static/js/787.5cccf6c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7c45b21e.js"
+  ]
+}
